@@ -1,0 +1,14 @@
+# Uncomment this line to define a global platform for your project
+# platform :ios, '9.0'
+
+pod "AFNetworking", "~> 2.0"
+
+target 'test_mobile_coding' do
+
+end
+
+target 'test_mobile_codingTests' do
+
+
+end
+
